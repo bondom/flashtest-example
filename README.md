@@ -1,4 +1,4 @@
-# Flashtest Example
+# [Flashtest](https://github.com/bondom/flashtest) Example
 
 1. Run `npm run dev:front` and `npm run dev:server` to start usual front and backend parts of application.
 2. Stop `dev:front` script, because `write-test:front` runs on the same port
