@@ -28,6 +28,7 @@ const ExportedApp = process.env.WRITE_TEST
       <CollectorComponent
         saveToFs={true}
         addComments={true}
+        mockApiResponses={true}
         testsFolder="__tests__"
       >
         <App />
